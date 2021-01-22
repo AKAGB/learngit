@@ -1,3 +1,3 @@
 # Hello Git
 
-hello git
+hello git and github
